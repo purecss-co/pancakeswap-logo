@@ -1,4 +1,4 @@
-# PureCSS - Responsive PancakeSwap Logo
+# PureCSS - PancakeSwap Logo
 Responsive PancakeSwap Logo using HTML and CSS
 
 [Visit PancakeSwap website](https://pancakeswap.finance)
